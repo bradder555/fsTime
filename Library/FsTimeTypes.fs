@@ -1,4 +1,4 @@
-module TimeTypes
+module FsTimeTypes
 open System
 open System.Globalization
 open Hopac
