@@ -5,6 +5,10 @@
     <ServerGarbageCollection>true</ServerGarbageCollection>
     <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
     <VersionPrefix>"$(version)"</VersionPrefix>
+    <authors>Brad</authors>
+    <owners>Brad</owners>
+    <PackageLicenseExpression>GPLv2</PackageLicenseExpression>
+    <description>An opinionated implementation of time</description>
   </PropertyGroup>
 
   <ItemGroup>
