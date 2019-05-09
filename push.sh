@@ -1,3 +1,4 @@
+#!/bin/sh
 export version=$1
 export key=$2
 dotnet pack -c release
