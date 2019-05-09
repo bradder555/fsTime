@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FsTime</id>
+    <version>1.0.0</version>
+    <authors>brad</authors>
+    <owners>brad</owners>
+    <licenseUrl>https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html</licenseUrl>
+    <projectUrl>https://github.com/bradder555/fsTime</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>FsTime is a highly-opionated time library</description>
+    <releaseNotes>Initial, copied from fsmodbus</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>DateTime</tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+      -->
+    </dependencies>
+  </metadata>
+</package>
+
