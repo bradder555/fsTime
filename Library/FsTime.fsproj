@@ -7,7 +7,7 @@
     <VersionPrefix>"$(version)"</VersionPrefix>
     <authors>Brad</authors>
     <owners>Brad</owners>
-    <PackageLicenseExpression>GPLv2</PackageLicenseExpression>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
     <description>An opinionated implementation of time</description>
   </PropertyGroup>
 
