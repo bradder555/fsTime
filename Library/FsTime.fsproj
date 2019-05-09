@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <ServerGarbageCollection>true</ServerGarbageCollection>
+    <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="FsTimeTypes.fs"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="hopac" Version="0.4.1" />
+    <PackageReference Include="system.io" Version="4.3.0" />
+    <PackageReference Include="system.io.ports" Version="4.5.0" />
+    <PackageReference Include="system.net.sockets" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>
