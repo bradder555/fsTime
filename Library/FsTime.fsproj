@@ -4,6 +4,12 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <ServerGarbageCollection>true</ServerGarbageCollection>
     <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
+    <VersionPrefix>"$(version)"</VersionPrefix>
+    <authors>Brad</authors>
+    <owners>Brad</owners>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+    <description>An opinionated implementation of time</description>
+    <PackageProjectUrl>https://github.com/bradder555/fsTime</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
